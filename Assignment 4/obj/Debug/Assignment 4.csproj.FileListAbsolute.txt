@@ -1,0 +1,10 @@
+C:\Learning\C#\Assignment 4\bin\Debug\Assignment 4.exe.config
+C:\Learning\C#\Assignment 4\bin\Debug\Assignment 4.exe
+C:\Learning\C#\Assignment 4\bin\Debug\Assignment 4.pdb
+C:\Learning\C#\Assignment 4\obj\Debug\Assignment 4.csproj.AssemblyReference.cache
+C:\Learning\C#\Assignment 4\obj\Debug\Assignment_4.Form1.resources
+C:\Learning\C#\Assignment 4\obj\Debug\Assignment_4.Properties.Resources.resources
+C:\Learning\C#\Assignment 4\obj\Debug\Assignment 4.csproj.GenerateResource.cache
+C:\Learning\C#\Assignment 4\obj\Debug\Assignment 4.csproj.CoreCompileInputs.cache
+C:\Learning\C#\Assignment 4\obj\Debug\Assignment 4.exe
+C:\Learning\C#\Assignment 4\obj\Debug\Assignment 4.pdb
